@@ -1,0 +1,34 @@
+1. Drawn ball: Normal Prize Ball (Pink), it contains Dolphin.
+2. Drawn ball: Normal Prize Ball (White), it contains Monkey.
+3. Drawn ball: Legendary Prize Ball (Orange), it contains Max the Marmot.
+4. Drawn ball: Normal Prize Ball (Pink), it contains Orca.
+5. Drawn ball: Normal Prize Ball (White), it contains Otter.
+6. Drawn ball: Normal Prize Ball (Pink), it contains Orca.
+7. Drawn ball: Epic Prize Ball (Purple), it contains Great White Shark.
+8. Drawn ball: Normal Prize Ball (Pink), it contains Orca.
+9. Drawn ball: Normal Prize Ball (Pink), it contains Oyster.
+10. Drawn ball: Rare Prize Ball (Blue), it contains Python.
+11. Drawn ball: Normal Prize Ball (White), it contains Ring-tailed Lemur.
+12. Drawn ball: Empty Ball (Red), it contains... nothing.
+13. Drawn ball: Epic Prize Ball (Purple), it contains Wild Duck.
+14. Drawn ball: Normal Prize Ball (White), it contains Otter.
+15. Drawn ball: Extra Ball Ball (Bright Green), it gives 5 extra draws.
+16. Drawn ball: Empty Ball (Red), it contains... nothing.
+17. Drawn ball: Normal Prize Ball (Pink), it contains Dolphin.
+18. Drawn ball: Normal Prize Ball (Pink), it contains Dolphin.
+19. Drawn ball: Normal Prize Ball (White), it contains Otter.
+20. Drawn ball: Normal Prize Ball (White), it contains Capibara.
+21. Drawn ball: Epic Prize Ball (Purple), it contains Hammerhead Shark.
+22. Drawn ball: Extra Ball Ball (Light Green), it gives 2 extra draws.
+23. Drawn ball: Normal Prize Ball (White), it contains Ring-tailed Lemur.
+24. Drawn ball: Normal Prize Ball (White), it contains Ring-tailed Lemur.
+25. Drawn ball: Epic Prize Ball (Purple), it contains Hammerhead Shark.
+26. Drawn ball: Normal Prize Ball (Pink), it contains Octopus.
+27. Drawn ball: Normal Prize Ball (White), it contains Rhino.
+28. Drawn ball: Normal Prize Ball (White), it contains Capibara.
+29. Drawn ball: Normal Prize Ball (Pink), it contains Dolphin.
+30. Drawn ball: Empty Ball (Red), it contains... nothing.
+31. Drawn ball: Extra Ball Ball (Light Green), it gives 2 extra draws.
+32. Drawn ball: Normal Prize Ball (White), it contains Capibara.
+33. Drawn ball: Normal Prize Ball (White), it contains Capibara.
+34. Drawn ball: Normal Prize Ball (Pink), it contains Oyster.
